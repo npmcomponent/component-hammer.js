@@ -9,5 +9,10 @@
       "url": "http://github.com/EightMedia/hammer.js.git"
     }
   ],
-  "main": "hammer.js"
+  "main": "hammer.js",
+  "component": {
+    "scripts": {
+      "hammer.js": "hammer.js"
+    }
+  }
 }

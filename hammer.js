@@ -739,3 +739,5 @@ function Hammer(element, options, undefined)
         }
     }
 }
+
+module.exports = Hammer;
