@@ -1,6 +1,6 @@
 {
   "name": "hammerjs",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "description": "A javascript library for multi-touch gestures",
   "keywords": [ "touch" ],
   "repositories": [
