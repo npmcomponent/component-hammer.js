@@ -1,18 +1,9 @@
 {
-  "name": "hammerjs",
-  "version": "0.6.2",
+  "name": "component-hammer.js",
   "description": "A javascript library for multi-touch gestures",
-  "keywords": [ "touch" ],
-  "repositories": [
-    {
-      "type": "git",
-      "url": "http://github.com/EightMedia/hammer.js.git"
-    }
+  "version": "0.6.2",
+  "keywords": [
+    "touch"
   ],
-  "main": "hammer.js",
-  "component": {
-    "scripts": {
-      "hammer.js": "hammer.js"
-    }
-  }
+  "dependencies": {}
 }
